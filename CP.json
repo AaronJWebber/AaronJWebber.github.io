@@ -1,0 +1,24 @@
+ 
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "title": {
+    "text":"UK Annual GDP in Current Prices",
+    "subtitle": ["Indices (2019=100)", "Source: ONS"]},
+
+  "width": 400,
+  "height": 300,
+ 
+  "data": {"url": "https://raw.githubusercontent.com/AaronJWebber/AaronJWebber.github.io/main/GDP%20CP%20%26%20CVM.csv"},
+ 
+  "mark": {
+    "type": "line",
+    "color": "#a8bd3a"},
+ 
+  "encoding": {
+    "x": {"field": "Year", "type": "temporal", "title":null},
+    "y": {"field": "Current prices", "type": "quantitative","title":null}
+   
+   
+  }
+}
