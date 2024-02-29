@@ -11,7 +11,7 @@
       "lookup": "id",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/EconomicsObservatory/courses/main/datasets/advanced/owid_co2_2021.csv"
+          "url": "https://raw.githubusercontent.com/EconomicsObservatory/courses/main/datasets/advanced/owid_co2_2022.csv"
         },
         "key": "id",
         "fields": ["value"]
@@ -25,7 +25,9 @@
       "field": "value",
       "type": "quantitative",
       "title": "CO2 Emissions (tons)"
-    }
+    },
+        "tooltip": [
+          {"field": "value", "title":"CO2 Emissions (tons)"}],
   },
   "title": {
     "text": "Annual CO2 Emissions",
