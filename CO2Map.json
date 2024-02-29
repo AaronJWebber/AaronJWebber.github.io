@@ -24,8 +24,8 @@
     "color": {
       "field": "value",
       "type": "quantitative",
-      "title": "CO2 Emissions (tons)"
-    },
+      "title": "CO2 Emissions (tonnes)"
+    }
   },
   "title": {
     "text": "Annual CO2 Emissions",
