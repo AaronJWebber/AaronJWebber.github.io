@@ -1,0 +1,22 @@
+ 
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "title": {
+    "text":"Annual UK CO2 Emissions (million tonnes)",
+    "subtitle": ["Emissions from fossil fuels and industry (land use change not included)", "Source: OWID"]},
+
+  "width": 600,
+  "height": 300,
+ 
+  "data": {"url": "https://raw.githubusercontent.com/AaronJWebber/AaronJWebber.github.io/main/UK%20CO2%20time%20series%20OWID.csv"},
+ 
+  "mark": {
+    "type": "line",
+    "color": "#a8bd3a"},
+ 
+  "encoding": {
+    "x": {"field": "Year", "type": "temporal", "title":null},
+    "y": {"field": "Annual CO2 Emissions (tonnes)", "type": "quantitative","title":null}
+  }
+}
