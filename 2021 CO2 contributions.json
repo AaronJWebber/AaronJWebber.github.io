@@ -15,7 +15,6 @@
  
   "encoding": {
     "x": {"field": "2021", "type": "quantitative", "title":null},
-    "y": {"field": "Industry", "type": "nominal", "title":null},
-    
+    "y": {"field": "Industry", "type": "nominal", "title":null}
   }
 }
