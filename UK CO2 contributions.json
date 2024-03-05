@@ -6,7 +6,7 @@
     "text":"Contributions to CO2 emissions",
     "subtitle": ["Percentage of total emissions by UK residents", "Source: ONS"]},
 
-  "width": 600,
+  "width": 450,
   "height": 300,
  
   "data": {"url": "https://raw.githubusercontent.com/AaronJWebber/AaronJWebber.github.io/main/Contribution%20to%20UK%20CO2%20emissions%20by%20Industry.csv"},
