@@ -1,7 +1,13 @@
-Industry,1990,2021
-Mining and quarrying,3.6,3.7
-Manufacturing,21.8,18.9
-"Electricity, gas, steam and air conditioning supply",32.0,19.3
-Transport and storage,10.2,13.1
-Consumer expenditure,21.8,31.0
-Other,10.6,14.0
+Industry,Contribution,Year
+"Electricity, gas, steam and air conditioning supply",32,1990
+"Electricity, gas, steam and air conditioning supply",19.3,2021
+Manufacturing,21.8,1990
+Manufacturing,18.9,2021
+Consumer expenditure,21.8,1990
+Consumer expenditure,31,2021
+Other,10.6,1990
+Other,14,2021
+Transport and storage,10.2,1990
+Transport and storage,13.1,2021
+Mining and quarrying,3.7,1990
+Mining and quarrying,3.6,2021
