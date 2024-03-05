@@ -16,6 +16,7 @@
   "encoding": {
     "x": {"field": "Contribution", "type": "quantitative", "title":null},
     "y": {"field": "Year", "type": "nominal", "title":null},
-    "color": {"field": "Industry", "type": "nominal"}
+    "color": {"field": "Industry", "type": "nominal"},
+    "tooltip": {"field": "Contribution", "type": "quantitative"}
   }
 }
